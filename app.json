@@ -8,7 +8,9 @@
     "worker": "npm start"
   },
   "buildpacks": [
-    "url": "heroku/nodejs" 
+    {
+      "url": "heroku/nodejs"
+    }
   ],
   "env": {},
   "addons": []
