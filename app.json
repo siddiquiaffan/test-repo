@@ -1,0 +1,13 @@
+{
+  "name": "test app",
+  "description": "Yet another usserbot for WhatsGram.",
+  "keywords": ["WhatsApp", "Telegram", "Userbot", "NodeJs"],
+  "repository": "https://github.com/WhatsGram/WhatsGram",
+  "website": "https://t.me/AffanTheBest",
+  "scripts": {
+    "worker": "npm start"
+  },
+  "buildpacks": [],
+  "env": {},
+  "addons": []
+}
