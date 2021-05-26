@@ -7,7 +7,9 @@
   "scripts": {
     "worker": "npm start"
   },
-  "buildpacks": [],
+  "buildpacks": [
+    "url": "heroku/nodejs" 
+  ],
   "env": {},
   "addons": []
 }
